@@ -163,7 +163,7 @@ input, select, textarea {
 		color: #35b88f;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
+		/* border-bottom: dotted 1px rgba(53, 184, 143, 0.5); */
 	}
 
 		a:hover {
@@ -2643,3 +2643,35 @@ input, select, textarea {
 			}
 
 	}
+
+	.exstrava img{
+		width: 100%;
+	}
+
+	.col-3 i {
+		font-size: 100px;
+		position: relative;
+		z-index: 1;
+	}
+
+	.express i {
+		color: rgb(241 213 66);
+		font-size: 120px;
+		font-weight: 500;
+	}
+
+	.exstrava-container{
+		border-top: 1px solid gray;
+		margin: 0 auto;
+		/* padding-left: 100px; */
+	}
+
+	a .devicon-chrome-plain{
+		color:rgb(73 80 87);
+	}
+
+
+	.feature-1{
+		font-size: 15px;
+	}
+	

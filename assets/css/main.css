@@ -2674,4 +2674,9 @@ input, select, textarea {
 	.feature-1{
 		font-size: 15px;
 	}
+
+	.profile-pic{
+		width: 10px;
+		height: 10px;
+	}
 	
